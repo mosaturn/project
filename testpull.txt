@@ -4,7 +4,4 @@ Test pull
 Hello  
 This Mohamed from Local  
 Test pull succeeded  
-Delet that line and the following for test
-Delete 
-delete
-delete
+Okay
